@@ -38,9 +38,6 @@ StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
 
 <div ><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E7%99%BB%E9%8C%84%E7%95%AB%E9%9D%A2.PNG"/></div>  
 
-故事開始  
-
-<div><img width="350" height="400" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E6%95%85%E4%BA%8B%E9%96%8B%E5%A7%8B.PNG"/></div>  
 
 遊戲地圖  
 
