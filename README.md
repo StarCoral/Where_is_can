@@ -24,7 +24,7 @@ StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
 
 目標－尋找五星貓咪罐罐之旅
 ---
-![Can](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%A0%82%E7%B4%9A%E7%BD%90%E9%A0%AD.png=50x50)
+![Can](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%A0%82%E7%B4%9A%E7%BD%90%E9%A0%AD.png =50x50)
 找到五星貓罐罐，才能逃出這個JAVA異世界。
 探索異世界，完成NPC交代的任務、回答多型的問題，獲得貓罐頭。
 
@@ -35,21 +35,21 @@ StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
 
 ## 腳色介紹
 
-![Role](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%A7%92%E8%89%B2.png=200x300)
+![Role](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%A7%92%E8%89%B2.png =200x300)
 
 ## 遊戲畫面
 
 登入畫面
 
-![Login](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E7%99%BB%E9%8C%84%E7%95%AB%E9%9D%A2.PNG=200x300)
+![Login](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E7%99%BB%E9%8C%84%E7%95%AB%E9%9D%A2.PNG =200x300)
 
 故事開始
 
-![Story](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E6%95%85%E4%BA%8B%E9%96%8B%E5%A7%8B.PNG=200x300)
+![Story](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E6%95%85%E4%BA%8B%E9%96%8B%E5%A7%8B.PNG =200x300)
 
 遊戲地圖
 
-![game1](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B02.PNG=200x300)
+![game1](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B02.PNG =200x300)
 
 
-![game1](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%88%87npc%E5%B0%8D%E8%A9%B1.PNG=200x300)
+![game1](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%88%87npc%E5%B0%8D%E8%A9%B1.PNG =200x300)
