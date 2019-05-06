@@ -1,0 +1,50 @@
+
+
+		#login_button
+		{
+		  position:relative; 
+		  top:550px;
+		  left:650px;
+		　z-index:2;
+		}
+
+		#background
+		{
+		  background-image : url("./photo/title_page_1.png"); 
+		  background-size: 1269px 720px; 
+		  background-repeat:no-repeat;
+		  width  :1400px;
+		  height :730px;
+		  background-position : 90% 90%;
+		}
+		
+		#form
+		{
+		  position:relative; 
+		  top:500px;
+		  left:550px;
+		　z-index:2;
+		  font-family:our;
+		  font-size:30px;
+		}
+		
+		
+		
+		#Leaderboard
+		{
+		  position:absolute; 
+		  top:305px;
+		  left:218px;
+		  font-family:our;
+		  font-size:30px;
+		  color:#D2B48C;
+		  z-index:2;
+		}
+		
+		@font-face
+		{
+			font-family: 'our';
+			src: url('蟹馨萇齟极.ttf');
+		}
+
+}

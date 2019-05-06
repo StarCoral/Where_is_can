@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>所以我說那個罐罐呢</title>
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="js/start.js"></script>
+	<iframe hidden=true width="854" height="480" src="./A_Quiet_Thought.mp3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+	<link rel="stylesheet" type="text/css" href="css/style0.css">
+</head>
+
+<body>
+	<div id="main">
+		
+		<img id="mainPhoto1" src="photo/start_1_1.png" style="display:none">
+		<img id="mainPhoto2" src="photo/start_2_1.png" style="display:none">
+		
+		<div id="dialog">
+			<img id="dialog_photo" src="photo/mainC_B_1.png" >
+			<div id="content">
+				......
+			</div>
+		</div>
+	</div>
+
+	<script>
+	$(document).ready(function()
+	{
+		$(document).keypress(function (event) 
+		{
+			showContent();
+		});
+	});
+		
+	</script>
+</body>
+
+</html>

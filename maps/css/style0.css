@@ -1,0 +1,60 @@
+	.container{
+		position: absolute;
+		width:100%;
+		background-color:#FFFFFF;
+	
+	}
+	
+	#main{
+		width:1000px;
+		height:800px;
+		background-color:#d9d9d9;
+		position:absolute;
+		left:50%;
+		margin-left:-500px;
+		margin-bottom:80px;
+		z-index:10;
+		
+	}
+	
+	#mainPhoto1{
+		width:1000px;
+		height:800px;
+	}
+	
+	#mainPhoto2{
+		width:1000px;
+		height:800px;
+	}
+	
+	#dialog_photo{
+		width:192px;
+		height:192px;
+		left:0px;
+		
+	}
+	
+	#content{
+		line-height:35px;
+		font-size:16px;
+		position: absolute;
+		height:192px;
+		width:808px;
+		left:192px;
+		bottom:0px;
+	}
+	
+	#dialog{
+		width:1000px;
+		height:192px;
+		background-color:#000000;
+		opacity: 0.8;
+		color: #FFFFFF;
+		position:absolute;
+		bottom:0px;
+	}
+	
+	body{
+		background-color:#000000;
+		z-index:0;
+	}

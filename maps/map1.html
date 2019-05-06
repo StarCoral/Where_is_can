@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+碰觸角色，顯示對話框。
+地圖資料從DB讀取。
+-->
+<html>
+<head>
+    <meta charset="UTF-8">
+	
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <title>map1</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<iframe hidden=true width="854" height="480" src="./Dirty_Mac.mp3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<script type="text/javascript" src="js/game.js"></script>
+</head>
+<body>
+
+
+
+<!--地圖-->
+
+<div id="map" class="map">
+	<img id="background_bottom" class="bottom" src="photo/room2.png" width="704" height="832" >
+    <img id="start" class="photo" src="photo/mainC_1.png">
+    <img id="mainC" src="photo/mainC_7.png" style="display: none">
+	
+	<div id="dialog_B" class="content" style="display: none" width ="704" height="192">
+		<img id="dialog_photo" src="photo/mainC_B_1.png" width="192" height="192">
+		<div id="dialog">default content</div>
+		<br>
+		<!--<button id='t_close_01' type='button' class='button'>關閉</button></div>-->
+	</div>
+	
+</div>
+
+
+
+</div>
+
+<script>
+	 $(document).keypress(function (event) {
+            $("#dialog_B").css("display", "none");
+			
+            console.log("close");
+			stop = false;
+			changeMap(vertical, horizontal);
+    });
+	
+	
+</script>
+</body>
+</html>
