@@ -1,10 +1,6 @@
 [所以我說那個罐罐呢 ?[所以我說那個罐罐呢 ?
 ===
 
-##  目錄
-
-[TOC]
-
 ## 開發者
 
 StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
