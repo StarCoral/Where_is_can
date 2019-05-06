@@ -20,7 +20,7 @@ StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
 
 目標－尋找五星貓咪罐罐之旅
 ---
-![Can](https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%A0%82%E7%B4%9A%E7%BD%90%E9%A0%AD.png )
+<div align=center><img width="50" height="50" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%A0%82%E7%B4%9A%E7%BD%90%E9%A0%AD.png"/></div>
 找到五星貓罐罐，才能逃出這個JAVA異世界。
 探索異世界，完成NPC交代的任務、回答多型的問題，獲得貓罐頭。
 
