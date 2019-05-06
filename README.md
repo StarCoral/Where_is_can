@@ -30,25 +30,25 @@ StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
 先學會多型，再來談罐頭。
 
 ## 腳色介紹
-<div align=center><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%A7%92%E8%89%B2.png"/></div>  
+<div><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%A7%92%E8%89%B2.png"/></div>  
 
 ## 遊戲畫面
 
 登入畫面  
 
-<div align=center><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E7%99%BB%E9%8C%84%E7%95%AB%E9%9D%A2.PNG"/></div>  
+<div ><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E7%99%BB%E9%8C%84%E7%95%AB%E9%9D%A2.PNG"/></div>  
 
 故事開始  
 
-<div align=center><img width="300" height="500" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E6%95%85%E4%BA%8B%E9%96%8B%E5%A7%8B.PNG"/></div>  
+<div><img width="350" height="500" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E6%95%85%E4%BA%8B%E9%96%8B%E5%A7%8B.PNG"/></div>  
 
 遊戲地圖  
 
 
-<div align=center><img width="300" height="500" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B02.PNGg"/></div>  
+<div ><img width="350" height="500" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B02.PNGg"/></div>  
 
-<div align=center><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%88%87npc%E5%B0%8D%E8%A9%B1.PNG"/></div>  
+<div ><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E8%88%87npc%E5%B0%8D%E8%A9%B1.PNG"/></div>  
 
 遊戲結束  
 
-<div align=center><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%80%9A%E9%97%9C%E5%9C%96.PNG"/></div>  
+<div><img width="500" height="300" src="https://github.com/StarCoral/Where_is_can/blob/master/picture/%E9%80%9A%E9%97%9C%E5%9C%96.PNG"/></div>  
