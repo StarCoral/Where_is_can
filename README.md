@@ -3,7 +3,7 @@
 
 ## 開發者
 
-StarCoral 、 wyshieh007 、 Hsiao Hsin-Lan
+StarCoral 、 wyshieh007 、 Landy-Hsiao
 
 開發環境 & 工具
 ---
